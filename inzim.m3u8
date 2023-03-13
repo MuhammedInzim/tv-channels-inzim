@@ -1,16 +1,16 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://cdn.wionews.com/sites/default/files/2023/02/18/333304-ccl-2023-telecast-channel-and-schedule.jpg" group-title="LIVE",CCL (Hindi Only)
-
+https://82d9.short.gy/ccl
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 1
-
+https://82d9.short.gy/live-1
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 2
-
+https://82d9.short.gy/live-2
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 3
-
+https://82d9.short.gy/live-3
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 1
 https://72n5.short.gy/LIVE_LINK-1.m3u8
@@ -23,11 +23,6 @@ https://72n5.short.gy/LINK3_BJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 4
 https://72n5.short.gy/LINK4__BJ.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 1
-
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 2
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
@@ -327,7 +322,7 @@ http://46.4.77.66:80/asianet/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest/scale-to-width-down/200?cb=20211123053324" group-title="Malayalam",Asianet Movies
-
+https://yupptvliveten2.yuppcdn.net/280722/smil:asianetmovies.smil/chunklist_b1928000.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg/revision/latest/scale-to-width-down/230?cb=20180723062617" group-title="Malayalam",Asianet Plus
 https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/chunklist_b1328000.m3u8
@@ -336,7 +331,7 @@ https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/chunklist_b1328
 https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/1f0ed9d8-bb10-4128-a581-9ac9b169147b/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Malayalam",Mazhavil Manorama
-
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mazhavilmanorama_nim_https/3dc2fb5b-f5eb-4a85-9357-010e10336a40/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Mazhavil_Manorama_HD.png/revision/latest/scale-to-width-down/113?cb=20190908062850" group-title="Malayalam",Mazhavil Manorama HD
 
@@ -345,7 +340,7 @@ https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1cc
 
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/We.jpg/revision/latest?cb=20160903184130" group-title="Malayalam",Kairali WE
-
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/bede1c36-5296-4fd1-86c4-7d2436c71c38/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Surya_TV.png/revision/latest/scale-to-width-down/250?cb=20220814062214" group-title="Malayalam",Surya TV
 
