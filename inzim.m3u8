@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://cdn.wionews.com/sites/default/files/2023/02/18/333304-ccl-2023-telecast-channel-and-schedule.jpg" group-title="LIVE",CCL (Hindi Only)
-https://short.absi.dev/ccl
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 1
 https://short.absi.dev/live-1
