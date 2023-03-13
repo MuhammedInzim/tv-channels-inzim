@@ -3,14 +3,14 @@
 #EXTINF:-1 tvg-logo="http://cdn.wionews.com/sites/default/files/2023/02/18/333304-ccl-2023-telecast-channel-and-schedule.jpg" group-title="LIVE",CCL (Hindi Only)
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 1
-https://short.absi.dev/live-1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 1
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 2
-https://short.absi.dev/live-2
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 3
-https://short.absi.dev/live-3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 2
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",LIVE Link Inzim 3
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 1
 https://72n5.short.gy/LIVE_LINK-1.m3u8
@@ -25,13 +25,13 @@ https://72n5.short.gy/LINK3_BJ.m3u8
 https://72n5.short.gy/LINK4__BJ.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 1
-https://short.absi.dev/ipl-1
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 2
-https://short.absi.dev/ipl-2
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 3
-https://short.absi.dev/ipl-3
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
 http://ky-iptv.com:80/Wagner01/Wagner01/2210034.ts
