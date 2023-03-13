@@ -1,0 +1,383 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://cdn.wionews.com/sites/default/files/2023/02/18/333304-ccl-2023-telecast-channel-and-schedule.jpg" group-title="LIVE",CCL (Hindi Only)
+https://short.absi.dev/ccl
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 1
+https://short.absi.dev/live-1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 2
+https://short.absi.dev/live-2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="Sports",LIVE Link Inzim 3
+https://short.absi.dev/live-3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 1
+https://72n5.short.gy/LIVE_LINK-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 2
+https://72n5.short.gy/LIVE_LINK-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live link 3
+https://72n5.short.gy/LINK3_BJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Live_%28Ukraine%29_2021.svg/revision/latest/scale-to-width-down/150?cb=20210701083444" group-title="LIVE",Live Link 4
+https://72n5.short.gy/LINK4__BJ.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 1
+https://short.absi.dev/ipl-1
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 2
+https://short.absi.dev/ipl-2
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Tata_IPL_Logo_2022.svg/revision/latest/scale-to-width-down/220?cb=20220216080617" group-title="LIVE",IPL Live 3
+https://short.absi.dev/ipl-3
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cc/SS1HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105030828" group-title="Sports",Star Sports 1 HD
+http://ky-iptv.com:80/Wagner01/Wagner01/2210034.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/SS1_Hindi_HD.JPG/revision/latest/scale-to-width-down/220?cb=20171105031607" group-title="Sports",Star Sports 1 Hindi
+http://starshare.live:8080/live/benjamin9876/985049269850/211.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/SS2HD.jpg/revision/latest/scale-to-width-down/220?cb=20171105032245" group-title="Sports",Star Sports 2 HD
+http://212.224.84.254:2200/R-EX/SPORTS_STAR_SPORTS_2_HD-in/tracks-v1a1/mono.m3u8?token=egBlCndpe3ZiDXBgN3JjewVhf3FmenNhfnAXeHItenVmc3Nje3Ngfg%3D%3D
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest/scale-to-width-down/220?cb=20191214234112" group-title="Sports",Star Sports 3
+http://starshare.live:8080/live/benjamin9876/985049269850/1080.ts
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSportsSelect1.in.png" group-title="Sports",Star Sports Select 1 HD
+http://starshare.live:8080/live/benjamin9876/985049269850/238.ts
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/in/StarSportsSelect2.in.png" group-title="Sports",Star Sports Select 2 HD
+http://starshare.live:8080/live/benjamin9876/985049269850/200.ts
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/c1/84/91c1846b6eb2203ffbdbd9589c6ea8e9.png" group-title="Sports",BT Sport 1 HD
+http://starshare.live:8080/live/benjamin9876/985049269850/23564.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/BT_Sport_2_2019.svg/revision/latest/scale-to-width-down/250?cb=20220731231950" group-title="Sports",BT Sport 2 HD
+http://starshare.live:8080/live/benjamin9876/985049269850/23565.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/BT_Sport_3.svg/revision/latest/scale-to-width-down/250?cb=20191227182642" group-title="Sports",BT Sport 3 HD
+http://starshare.live:8080/live/benjamin9876/985049269850/283.ts
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-title="Sports",Sony TEN 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="Sports",Sony TEN 1 HD
+https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-title="Sports",Sony TEN 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="Sports",Sony TEN 2 HD
+https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_SD_Logo_CLR.png" group-title="Sports",Sony TEN 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="Sports",Sony TEN 3 HD
+https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_SD_Logo_CLR.png" group-title="Sports",Sony TEN 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+
+#EXTINF: -1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen4_HD_Logo_CLR.png" group-title="Sports",Sony TEN 4 HD
+https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-title="Sports,Sony TEN 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-title="Sports",Sony TEN 5 HD
+https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports",Sports 18
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",Sports 18 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports",Sports 18 Khel
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png" group-title="Sports",Jio Cricket HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_1_HD.png" group-title="Sports",Jio Cricket 1 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_2_HD.png" group-title="Sports",Jio Cricket 2 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_3.png" group-title="Sports",Jio Cricket 3 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_4_HD.png" group-title="Sports",Jio Cricket 4 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football.png" group-title="Sports",Jio Football HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Malayalam_HD.png" group-title="Sports",Jio Football Malayalam HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_Hindi_HD.png" group-title="Sports",Jio Football Hindi HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_1.png" group-title="Sports",Jio Football 1 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_2.png" group-title="Sports",Jio Football 2 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_3.png" group-title="Sports",Jio Football 3 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_4.png" group-title="Sports",Jio Football 4 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_5.png" group-title="Sports",Jio Football 5 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_6.png" group-title="Sports",Jio Football 6 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_7.png" group-title="Sports",Jio Football 7 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Football_8.png" group-title="Sports",Jio Football 8 HD
+
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_ENGLISH_Digital_Mono.png" group-title="Sports",Bein Sports 1 English HD
+
+
+#EXTINF:-1 tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png" group-title="Sports",Bein Sports 2 English HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports.png" group-title="Sports",Jio Sports HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_1_HD.png" group-title="Sports",Jio Sports 1 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_2_HD.png" group-title="Sports",Jio Sports 2 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_3_HD.png" group-title="Sports",Jio Sports 3 HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Sports_4_HD.png" group-title="Sports",Jio Sports 4 HD
+
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png" group-title="Sports",Ten Sports HD
+http://starshare.live:8080/live/benjamin9876/985049269850/98.ts
+
+#EXTINF:-1 tvg-logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-Cricket.png" group-title="Sports",Ten Cricket
+http://starshare.live:8080/live/benjamin9876/985049269850/9886.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png" group-title="Sports",A Sports HD
+http://starshare.live:8080/live/benjamin9876/985049269850/43444.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png" group-title="Sports",PTV Sports
+http://212.224.84.254:2200/EX/ptvsportshd-pa/tracks-v1a1/mono.m3u8?token=CXtoCQYVe3FncwIUNwFpcgEUD3NjfXsQDj9gfXRkc3Jnendo
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Sports",T-Sports
+http://starshare.live:8080/live/benjamin9876/985049269850/130714.ts
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/stations/a257.png" group-title="Sports",Astro Cricket HD
+http://ky-iptv.com:80/Wagner01/Wagner01/1116403.ts
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-cricket-za.png" group-title="Sports",SuperSport Cricket HD
+http://ky-iptv.com:80/Wagner01/Wagner01/1116402.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png" group-title="Sports",SuperSport Rugby
+http://starshare.live:8080/live/benjamin9876/985049269850/524.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png" group-title="Sports",SuperSport Football
+http://starshare.live:8080/live/benjamin9876/985049269850/523.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/supersport-tennis/supersport-tennis.png" group-title="Sports",SuperSport Tennis HD
+http://starshare.live:8080/live/benjamin9876/985049269850/7603.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/x5ja5w1659624783.png" group-title="Sports",SuperSport Premier League
+http://starshare.live:8080/live/benjamin9876/985049269850/518.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png" group-title="Sports",Fox Cricket 501 HD
+http://ky-iptv.com:80/Wagner01/Wagner01/189787.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsCricket_201708/sky%20sports%20cricket.png" group-title="Sports",Sky Sports Cricket HD
+http://ky-iptv.com:80/Wagner01/Wagner01/2210032.ts
+
+#EXTINF:-1 tvg-logo="https://archive.org/download/SkySportsMixNew_201708/sky%20sports%20mix%20new.png" group-title="Sports",Sky Sports Mix HD
+http://starshare.live:8080/live/benjamin9876/985049269850/23335.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d7/Sky_Sports_Main_Event_Stacked.svg/revision/latest/scale-to-width-down/200?cb=20220728001048" group-title="Sports",Sky Sports Main Event
+http://starshare.live:8080/live/benjamin9876/985049269850/18.ts
+
+#EXTINF:-1 tvg-logo="https://ia800609.us.archive.org/8/items/SkySportsFootball_201708/sky%20sports%20football.png" group-title="Sports",Sky Sports Football
+http://starshare.live:8080/live/benjamin9876/985049269850/19.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sky_Sports_Premier_League_2020.svg/revision/latest/scale-to-width-down/300?cb=20200924152906" group-title="Sports",Sky Sports Premier League FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/9891.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e4/Sky_Sports_Action_HD.png/revision/latest?cb=20200608141220" group-title="Sports",Sky Sports Action
+http://starshare.live:8080/live/benjamin9876/985049269850/21.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d6/SkySportNZ1_2019.png/revision/latest/scale-to-width-down/200?cb=20190902035236" group-title="Sports",Sky Sport 1 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/23997.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/SkySportNZ2_2019.png/revision/latest/scale-to-width-down/200?cb=20190902035512" group-title="Sports",Sky Sport 2 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/23998.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/SkySportNZ3_2019.png/revision/latest/scale-to-width-down/200?cb=20190902035656"group-title="Sports",Sky Sport 3
+http://starshare.live:8080/live/benjamin9876/985049269850/24018.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/SkySportNZ4_2019.png/revision/latest/scale-to-width-down/200?cb=20190902035856" group-title="Sports",Sky Sport 4 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24000.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7a/SkySportNZ5_2019.png/revision/latest/scale-to-width-down/200?cb=20190902040033" group-title="Sports",Sky Sport 5 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24001.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/SkySportNZ6_2019.png/revision/latest/scale-to-width-down/200?cb=20190902040212" group-title="Sports",Sky Sport 6 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24002.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/17/SkySportNZ7_2019.png/revision/latest/scale-to-width-down/200?cb=20190902040455" group-title="Sports",Sky Sport 7 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24003.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Sky_Sport_Premier_League_NZ.svg/revision/latest/scale-to-width-down/250?cb=20220726192218" group-title="Sports",Sky Sport Premier League FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24004.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SkySportNZ9_2019.png/revision/latest/scale-to-width-down/200?cb=20190902040804" group-title="Sports",Sky Sport 9 FHD
+http://starshare.live:8080/live/benjamin9876/985049269850/24005.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/25/SkySportSelect_2020.png/revision/latest?cb=20200809113653" group-title="Sports",Sky Sport Select
+http://starshare.live:8080/live/benjamin9876/985049269850/34152.ts
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJWcbJAUoen7L-VOE890mLinSg83Yjqu78KbvA=s900-c-k-c0x00ffffff-no-rj" group-title="Sports",Flow Sports
+http://starshare.live:8080/live/benjamin9876/985049269850/34489.ts
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/us/WillowCricket.us.png" group-title="Sports",Willow Cricket HD
+http://ky-iptv.com:80/Wagner01/Wagner01/1104162.ts
+
+#EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports",Willow Xtra HD
+http://ky-iptv.com:80/Wagner01/Wagner01/1116401.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Sports",WWE Network
+http://starshare.live:8080/live/benjamin9876/985049269850/711.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/WWE.svg/revision/latest/scale-to-width-down/200?cb=20210911134605" group-title="Sports",WWE Channel
+http://starshare.live:8080/live/benjamin9876/985049269850/4945.ts
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports",Euro Sports
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports",Euro Sports HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports",1 Sports
+http://starshare.live:8080/live/benjamin9876/985049269850/72570.ts
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DD_Sports.png/revision/latest?cb=20160805130643" group-title="Sports",DD Sports
+https://watchtvs.live/getm3u8?id=204&m3u8=/jiotvmblive.cdn.jio.com/DD_Sports/DD_Sports_800.m3u8
+
+
+
+
+
+#EXTINF:- tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/Asianet_News.svg/revision/latest/scale-to-width-down/200?cb=20210611104402" group-title="Malayalam",Asianet News
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TWENTY_FOUR_NEWS.png" group-title="Malayalam",24 News
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dc/Media_One_2020.png/revision/latest/scale-to-width-down/250?cb=20210307154213" group-title="Malayalam",Media One
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/96/News18_Kerala_new.png/revision/latest?cb=20191220052547" group-title="Malayalam",News 18 Kerala
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Kairali_News.jpeg/revision/latest/scale-to-width-down/300?cb=20191221124115" group-title="Malayalam",Kairali News
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/16/Manorama_news.png/revision/latest/scale-to-width-down/167?cb=20181211073423"group-title="Malayalam",Manorama News
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/74/Mathrubhumi_News.jpg/revision/latest/scale-to-width-down/220?cb=20181211094022" group-title="Malayalam",Mathrubhumi News
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/31/Zee_Malayalam_News.png/revision/latest/scale-to-width-down/250?cb=20220124075506" group-title="Malayalam",Zee News Malayalam
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Reporter.jpeg/revision/latest/scale-to-width-down/260?cb=20191228090254" group-title="Malayalam",Reporter TV
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Malayalam.png" group-title="Malayalam",Raj News Malayalam
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Malayalam.png" group-title="Malayalam",DD Malayalam
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785" group-title="Malayalam",Zee Keralam HD
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Asianet_logo.png/revision/latest/scale-to-width-down/220?cb=20180924085223" group-title="Malayalam",Asianet
+http://46.4.77.66:80/asianet/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/AME.png/revision/latest/scale-to-width-down/220?cb=20200307083953" group-title="Malayalam",Asianet Middle East
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1d/Asmv.png/revision/latest/scale-to-width-down/200?cb=20211123053324" group-title="Malayalam",Asianet Movies
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Asianet_Plus_2018.jpg/revision/latest/scale-to-width-down/230?cb=20180723062617" group-title="Malayalam",Asianet Plus
+https://yupptvliveten2.yuppcdn.net/280722/smil:starasianetp.smil/chunklist_b1328000.m3u8
+
+#EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AL5GRJVQfspSOlkJL6DnnJJNzH-kJcCuRWzVivh3f24lYg=s900-c-k-c0x00ffffff-no-rj" group-title="Malayalam",Flowers TV
+https://yuppmedtaorire.akamaized.net/v1/manifest/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/1f0ed9d8-bb10-4128-a581-9ac9b169147b/0.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazhavil_Manorama.png" group-title="Malayalam",Mazhavil Manorama
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Mazhavil_Manorama_HD.png/revision/latest/scale-to-width-down/113?cb=20190908062850" group-title="Malayalam",Mazhavil Manorama HD
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_TV.png" group-title="Malayalam",Kairali TV
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/40/We.jpg/revision/latest?cb=20160903184130" group-title="Malayalam",Kairali WE
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Surya_TV.png/revision/latest/scale-to-width-down/250?cb=20220814062214" group-title="Malayalam",Surya TV
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/HD.SUR.jpg/revision/latest/scale-to-width-down/250?cb=20180318054242" group-title="Malayalam",Surya TV HD
+https://yupptvliveten2.yuppcdn.net/280722/smil:suryahd.smil/chunklist_b2628000.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Surya_movies.jpg/revision/latest/scale-to-width-down/220?cb=20180318054520" group-title="Malayalam",Surya Movies
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/SCO.jpg/revision/latest/scale-to-width-down/250?cb=20180318065830" group-title="Malayalam",Surya Comedy
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Amrita_TV.png" group-title="Malayalam",Amrita TV
+https://dr1zhpsuem5f4.cloudfront.net/master_2000.m3u8
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Janam_TV.png" group-title="Malayalam",Janam TV
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jaihind_tv.png" group-title="Malayalam",Jaihind TV
+
+
+#EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Jeevan_TV.png" group-title="Malayalam",Jeevan TV
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Kappa_TV.png/revision/latest/scale-to-width-down/250?cb=20181211100632" group-title="Malayalam",Kappa TV
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/Raj_Musix_Malayalam.jpeg/revision/latest/scale-to-width-down/300?cb=20191228090947" group-title="Malayalam",Raj Music Malayalam
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e9/Safari_logo_new_25-07-2015.png" group-title="Malayalam",Safari TV
