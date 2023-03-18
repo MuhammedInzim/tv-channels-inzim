@@ -198,9 +198,6 @@ https://82d9.short.gy/willow-cricket
 #EXTINF:-1 tvg-logo="https://sc.dish.com/shared/images/station-logos/WLXTR.png" group-title="Sports",Willow Xtra HD
 https://82d9.short.gy/willow-xtra
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/WWE_Network_logo.svg/1315px-WWE_Network_logo.svg.png" group-title="Sports",WWE Network
-http://starshare.live:8080/live/benjamin9876/985049269850/711.ts
-
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports",Euro Sports
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsungin/playlist.m3u8
 
@@ -208,7 +205,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-eurosportin-samsu
 
 
 #EXTINF:-1 tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/1Sports.png" group-title="Sports",1 Sports
-http://starshare.live:8080/live/benjamin9876/985049269850/72570.ts
+
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DD_Sports.png/revision/latest?cb=20160805130643" group-title="Sports",DD Sports
 https://82d9.short.gy/dd-sports
