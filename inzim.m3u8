@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://cdn.wionews.com/sites/default/files/2023/02/18/333304-ccl-2023-telecast-channel-and-schedule.jpg" group-title="LIVE",CCL (Hindi Only)
-https://82d9.short.gy/ccl
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RCBnn4K/live.png" group-title="LIVE",LIVE 1
 https://82d9.short.gy/live-1
 
